@@ -1,65 +1,64 @@
 # 📊 My Data Science Journey – From Scratch
 
-Welcome to my Data Science Journey! This repository is my personal learning space where I will document everything I learn as I dive deep into data science over the next **9 months** – from absolute basics to advanced topics.
+Welcome to my Data Science Journey! This repository serves as a structured and documented roadmap of my learning over the next **9 months**, as I progress from foundational concepts to advanced topics in data science.
 
 ---
 
-## 🎯 Goals
+## 🎯 Objectives
 
-- Build a strong foundation in data science
-- Practice consistently with hands-on coding and real-world projects
-- Track my monthly progress and reflect on my growth
-- Share notes and code that can help others starting their own journey
+- Develop a strong foundation in data science concepts and tools  
+- Build practical skills through hands-on coding and real-world projects  
+- Track and reflect on progress with monthly learning logs  
+- Share resources and code to support other learners in the community  
 
 ---
 
-## 🧠 What You’ll Find Here
+## 🧠 Repository Structure
 
 | Folder / File        | Description |
 |----------------------|-------------|
-| `notes/`             | Study notes, key concepts, theory summaries |
-| `code/`              | Practice problems, small projects, notebooks |
-| `projects/` _(optional)_ | Larger, end-to-end data science projects |
-| `progress.md`        | Monthly logs of what I’ve learned and done |
-| `resources.md`       | Helpful links, books, courses, and tools |
+| `notes/`             | Concept summaries, theoretical explanations, and study notes |
+| `code/`              | Practice exercises, mini-projects, and Jupyter notebooks |
+| `projects/` _(optional)_ | End-to-end data science projects with documentation |
+| `progress.md`        | Monthly progress tracker and reflections |
+| `resources.md`       | Curated list of learning resources (books, courses, articles) |
 
 ---
 
-## 📅 Timeline – 9 Month Plan
+## 📅 9-Month Learning Plan
 
-| Month | Focus Area(s) | Topics |
-|-------|----------------|--------|
-| 1     | Python for Data Science | Syntax, Functions, Pandas, Numpy |
-| 2     | Data Visualization | Matplotlib, Seaborn, Plotly |
+| Month | Focus Area(s) | Topics Covered |
+|-------|----------------|----------------|
+| 1     | Python for Data Science | Syntax, Functions, Pandas, NumPy |
+| 2     | Data Visualization       | Matplotlib, Seaborn, Plotly |
 | 3     | Statistics & Probability | Distributions, Hypothesis Testing |
-| 4     | Data Wrangling | Cleaning, Feature Engineering |
-| 5     | Machine Learning Basics | Regression, Classification |
-| 6     | Model Evaluation | Metrics, Cross-Validation |
-| 7     | Intermediate ML | Tree-based models, Ensembles |
-| 8     | Real-World Projects | EDA, Modeling, Presentation |
-| 9     | Capstone + Portfolio | Final project, Resume, GitHub profile |
+| 4     | Data Wrangling           | Data Cleaning, Feature Engineering |
+| 5     | Machine Learning Basics  | Linear/Logistic Regression, Classification |
+| 6     | Model Evaluation         | Metrics, Cross-Validation, Overfitting |
+| 7     | Intermediate ML          | Decision Trees, Random Forest, XGBoost |
+| 8     | Real-World Projects      | EDA, Modeling, Interpretation |
+| 9     | Capstone + Portfolio     | Final Project, Resume, GitHub Portfolio |
 
-> _Note: This plan may change as I go along – and that’s okay!_
+> _Note: This plan is flexible and may evolve based on learning pace and interests._
 
 ---
 
 ## ✅ Progress Tracker
 
-📌 Check [`progress.md`](progress.md) for my monthly learning logs, completed topics, and reflections.
+View my monthly updates, key learnings, and completed milestones in [`progress.md`](progress.md).
 
 ---
 
-## 📚 Resources
+## 📚 Learning Resources
 
-Find my curated list of helpful resources in [`resources.md`](resources.md) – including free courses, books, tutorials, and tools.
-
----
-
-## 🤝 Connect
-
-If you're also learning or want to collaborate, feel free to connect or open an issue!
+Explore recommended tutorials, courses, articles, and tools in [`resources.md`](resources.md).
 
 ---
 
-### 🌟 Star this repo if you're also on a data science journey!
+## 🤝 Connect & Collaborate
 
+If you're also on a data science journey or interested in collaborating, feel free to reach out or open an issue.
+
+---
+
+### 🌟 Star this repository if you find it helpful or inspiring!
